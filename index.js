@@ -38,5 +38,5 @@ const makeCommits = (n) => {
 };
 
 
-markCommit(0,0);
-makeCommits(100);
+markCommit(0,3);
+makeCommits(0,3);
